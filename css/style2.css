@@ -7,6 +7,11 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
+.slideshow_img {
+    margin: 0 auto;
+    top: 150px;
+    position: relative;
+}
 
 /* Caption text */
 .text {
