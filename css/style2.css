@@ -3,11 +3,12 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
-  height: 800px;
   position: relative;
   margin: auto;
   background-color: #2f3437;
+  background-size: auto;
+  background-repeat: no-repeat;
+  
 }
 .slideshow_img {
     margin: 0 auto;
