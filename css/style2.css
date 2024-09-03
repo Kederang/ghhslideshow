@@ -11,9 +11,8 @@ img {vertical-align: middle;}
 }
 .slideshow_img {
     margin: 0 auto;
-    top: 175px;
     position: relative;
-    background-position: center;
+    top: 100px;
 }
 
 /* Caption text */
